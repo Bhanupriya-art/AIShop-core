@@ -1,4 +1,4 @@
-# 🎨✨ 3D AI Shirt Customizer 
+# 3D AI Shirt Customizer 
 
 [![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-r168-orange)](https://threejs.org/)
@@ -10,7 +10,7 @@ An immersive 3D apparel customization platform inspired by Nike, featuring AI-po
 
 ---
 
-## ✨ Features
+## Features
 
 - **3D Product Visualization** – Real-time rendering with React Three Fiber
 - **AI Design Generator** – Create unique patterns with AI (DALL·E integration)
@@ -20,9 +20,9 @@ An immersive 3D apparel customization platform inspired by Nike, featuring AI-po
 
 ---
 
-## ⚠️ Important Note About AI Feature
+## Important Note About AI Feature
 
-> ⚠️ **SPECIAL NOTICE**  
+> **SPECIAL NOTICE**  
 > The AI design generation feature *might work or might not work* depending on:
 > - Whether your OpenAI API key is active and has enough credits  
 > - Your subscription tier with OpenAI (DALL·E API access may be limited)  
@@ -32,7 +32,7 @@ An immersive 3D apparel customization platform inspired by Nike, featuring AI-po
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Frontend              | Backend       | 3D Ecosystem        |
 |-----------------------|---------------|---------------------|
@@ -43,7 +43,7 @@ An immersive 3D apparel customization platform inspired by Nike, featuring AI-po
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Clone the repository**
    ```bash
@@ -64,7 +64,7 @@ An immersive 3D apparel customization platform inspired by Nike, featuring AI-po
    npm run dev
    ```
 
-## 📂 Project Structure
+## Project Structure
   ```bash
   bhanupriya-art-aishop-core/
   ├── client/               # Frontend application
@@ -76,7 +76,7 @@ An immersive 3D apparel customization platform inspired by Nike, featuring AI-po
       └── routes/           # API endpoints
   ```
 
-## 🤝 Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a PR to help improve the project.
 
 <p align="center">Made with ❤️ by Bhanu Priya</p> 
